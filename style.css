@@ -80,4 +80,13 @@ a {
     min-width: 800px;
     padding: 20px 50px;
   }
+  footer{
+    background: #fff;
+    padding: 20px 23px;
+    color: #000;
+    text-align: center;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
 }
