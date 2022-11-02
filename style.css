@@ -7,10 +7,10 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #483c5c;
   background: -webkit-linear-gradient(
-      rgba(0, 0, 0, 0.8),
-      rgba(248, 1, 1, 0.8)
+      rgba(114, 23, 38, 0.8),
+      rgba(17, 17, 17, 0.8)
     ),
     url("images/background.JPG");
   background-repeat: no-repeat;
@@ -34,9 +34,9 @@ main {
 }
 
 main h1 {
-  color: #f30000;
-  font-size: 1.5rem;
-  text-shadow: 2px 2px 5px #b40303;
+  color: #fafafa;
+  font-size: 1.2rem;
+  text-shadow: 2px 2px 5px #000000;
   margin: 0.5em 0 1.5em 0;
 }
 
@@ -52,22 +52,9 @@ main h1 {
   align-items: center;
   cursor: pointer;
 }
-.logo-linkedin{ 
-  height: 50px;
-  width: 100%;
-  background-color: #532764;
-  box-shadow: 0 0 10px 3px #000000;
-  margin-top: 1.3rem;
-  transform: skewX(-45deg);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-}
-
 
 .link span {
-  transform: skewX(45deg);
+  transform: skewX(30deg);
 }
 
 a {
