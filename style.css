@@ -9,8 +9,8 @@
 body {
   background-color: #483c5c;
   background: -webkit-linear-gradient(
-      rgba(114, 23, 38, 0.8),
-      rgba(17, 17, 17, 0.8)
+      rgba(39, 43, 80, 0.8),
+      rgba(110, 93, 98, 0.8)
     ),
     url("images/background.JPG");
   background-repeat: no-repeat;
@@ -80,8 +80,4 @@ a {
     min-width: 800px;
     padding: 20px 50px;
   }
-  footer{
-    padding: 20px 23px;
-    color: #000;
-    text-align: center;
-  }
+}
