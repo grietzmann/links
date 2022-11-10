@@ -1,7 +1,7 @@
 body{
 	min-height: 100vh;
 	padding: 30px;
-	background-image: url(/img/fundo.jpg);
+	background-image: url(./img/fundo.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
